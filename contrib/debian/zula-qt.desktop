@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Zula
+Comment=Zula P2P Cryptocurrency
+Comment[fr]=Zula, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Zula, eşten eşe kriptografik sanal para birimi
+Exec=zula-qt %u
+Terminal=false
+Type=Application
+Icon=zula128
+MimeType=x-scheme-handler/zula;
+Categories=Office;Finance;

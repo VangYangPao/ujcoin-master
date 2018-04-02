@@ -1,0 +1,6 @@
+usr/local/bin/zula-qt usr/bin
+share/pixmaps/zula32.xpm usr/share/pixmaps
+share/pixmaps/zula16.xpm usr/share/pixmaps
+share/pixmaps/zula128.png usr/share/pixmaps
+debian/zula-qt.desktop usr/share/applications
+debian/zula-qt.protocol usr/share/kde4/services/
